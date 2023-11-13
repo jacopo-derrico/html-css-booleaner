@@ -39,3 +39,32 @@ p a {
 figure {
     margin: 20px 0;
 }
+
+.main-text {
+    margin: 25px 0;
+}
+
+ul {
+    margin-left: 1em;
+    margin-bottom: 25px;
+}
+
+/* table style */
+
+table {
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #20A9E5;
+    color: #fff;
+}
+
+.big-column {
+    width: 50%;
+}
+
+.bg-row {
+    background-color: #B0E5F2;
+}
